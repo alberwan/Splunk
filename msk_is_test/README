@@ -1,0 +1,4 @@
+#MSK App Template
+
+*instruction:
+   *Please update the app.conf in the default folder to change MSK_App_Template to the actual app name.
