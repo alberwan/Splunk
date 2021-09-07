@@ -1,10 +1,10 @@
 {
     "schemaVersion": "2.0.0", 
     "info": {
-      "title": "AppTest", 
+      "title": "MSK_App_Test", 
       "id": {
         "group": null, 
-        "name": "msk_AppTest", 
+        "name": "msk_is_test", 
         "version": "0.0.1"
       }, 
       "author": [
@@ -29,7 +29,7 @@
       }
     }, 
     "dependencies": {
-      "msk_AppTest": {
+      "msk_is_test": {
         "version": ">=0.0.0"
       }
     },

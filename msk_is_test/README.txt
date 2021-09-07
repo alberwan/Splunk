@@ -1,0 +1,1 @@
+This app is for the Batch Cycle Optimization project team. It contains all configurations and props for usage by the team
