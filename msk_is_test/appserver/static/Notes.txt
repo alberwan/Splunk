@@ -1,0 +1,1 @@
+1. my.js my.css from: https://community.splunk.com/t5/Splunk-Search/multiselect-table-rows/m-p/337409#M100095
